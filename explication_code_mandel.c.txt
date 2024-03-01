@@ -1,6 +1,0 @@
-l. 29-30 : Création d'une image ppm
-l.  33 : Création de la couleur de base
-l. 35-60 : Creéation du dessin pixel par pixel après plusieur calcul mathématique
-l. 62 : Enregistrement de l'image dans un fichier nommé "m.ppm"
-l. 63 : Suppression de l'image de la mémoire (libération de la mémoire)
-l. 66 : Fin du programme

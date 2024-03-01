@@ -1,0 +1,56 @@
+### Exercice 1 ###
+
+2) Le schéma se trouve dans "medias/mermaid-diagram.png"
+
+3) La documentation de "ppm.h" a été réalisée sous forme de commentaire 
+dans le fichier lui-même
+
+
+
+### Exercice 2 ###
+
+2)
+    a) l. 29-30 : Création d'une image ppm
+    b) l. 33 : Création de la couleur de base
+    c) l. 35-60 : Création du dessin pixel par pixel après plusieurs calcul mathématique
+    d) l. 62 : Enregistrement de l'image dans un fichier nommé "m.ppm"
+    e) l. 63 : Suppression de l'image de la mémoire (libération de la mémoire)
+    f) l. 66 : Fin du programme
+
+
+
+### Exercice 3 ###
+
+1) Pour ramener la branche "color_support" au-dessus du master, il faut faire un
+"git merge color_support" en étant dans la branche "main"
+
+2) Il y a une étape supplémentaire nécessaire à faire qui est la résolution de conflits
+à faire dans un éditeur de texte ou IDE
+
+3) Je n'ai pas pu réaliser la tâche car mon git ne veut pas me proposer une résolution
+de conflits, quel que soit ce que je fais. Plus de détails dans le mini rapport "mini_rapport.pdf"
+
+
+
+### Exercice 4 ###
+
+1) J’ai choisis GitHub pour mon dépôt. Pour créer le dépôt, il faut :
+	a) Se créer un compte
+	b) Aller dans la section "My respositories"
+	c) Cliquer sur le bouton vert "New"
+	d) Donner un nom, une description, la visibilité et paramétrer les autres paramètres
+    disponibles si nécessaire
+	e) Cliquer sur "Create repository"
+	f) Après création du dépôt, faire la commande 
+    "git remote add origin git@github.com:juliangit971/tp_git.git» pour lier
+    le notre git local au dépôt GitHub 
+
+2) Pour envoyer le travail dans le dépôt distant, faire les commandes suivantes pour chaque branche :
+	a) Pour la "main" : git push origin main
+	b) Pour la "color_support" : git push origin color_support
+
+
+
+### Exercice 5 ###
+
+Malheureusement je n’ai pas pu le faire à cause de l’étape 3) qui me manque à l’exercice 3
